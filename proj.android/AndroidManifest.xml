@@ -14,7 +14,7 @@
         <meta-data android:name="android.app.lib_name"
 	              android:value="cocos2dcpp" />
 
-        <activity android:name="mobi.rjg.underfire.AppActivity"
+        <activity android:name="com.ezibyte.nausea.AppActivity"
                   android:label="@string/app_name"
                   android:screenOrientation="landscape"
                   android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
